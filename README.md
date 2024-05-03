@@ -9,7 +9,7 @@ The NN model was trained on data downloaded from Kaggle:- https://www.kaggle.com
 The Neural Network consists of 2 hidden layers with 128 and 64 nodes respectively. The output layer has 10 nodes with sigmoid activation function.
 Loss Function used : Sparse Categorical Crossentropy
 
-## Resuls
+## Results
 
 <img width="414" alt="Accuracy" src="https://github.com/AgKing3242/Fashion-MNSIT-Classification/assets/139226792/310ed055-415a-48ae-8d17-ed404ab20342">
 <img width="414" alt="Loss" src="https://github.com/AgKing3242/Fashion-MNSIT-Classification/assets/139226792/84ca622a-bc97-41ff-b0b3-fd2e70dec37b">
